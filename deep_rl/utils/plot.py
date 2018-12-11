@@ -1,6 +1,5 @@
 # Adapted from  https://github.com/openai/baselines/blob/master/baselines/results_plotter.py
 
-from baselines.bench.monitor import load_results
 import numpy as np
 import os
 import re
